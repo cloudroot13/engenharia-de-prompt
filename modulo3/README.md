@@ -1,5 +1,8 @@
 # 🎓 StudyFlow AI
 
+
+link do projeto : https://bielcavalcanti13.bubbleapps.io/version-test?debug_mode=true
+
 ## 📌 Sobre o Projeto
 
 O StudyFlow AI é uma aplicação desenvolvida utilizando conceitos de Low Code e Inteligência Artificial com foco na organização de estudos para estudantes.
